@@ -1,0 +1,11 @@
+name: Towers
+version: '${project.version}'
+main: de.sirguard.towers.Towers
+api-version: 1.18
+author: SirGuard
+commands:
+  setup:
+
+  forcestart:
+    aliases: [fs, force, start, quick, forceload]
+
